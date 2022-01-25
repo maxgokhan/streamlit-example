@@ -1,6 +1,6 @@
 import pandas as pd
 import streamlit as st
-import yfinance as yf
+import yahoo_finance as yf
 
 st.write("""
 # Simple Stock Price App
